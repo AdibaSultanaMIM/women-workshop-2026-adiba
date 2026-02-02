@@ -1,7 +1,7 @@
 
 // Registration Form Handler for WE-ICT 2026
 // API Configuration - Update this URL after deploying backend to PythonAnywhere
-const API_BASE_URL = 'https://YOUR-USERNAME.pythonanywhere.com/api';
+const API_URL = 'https://sultana2016.pythonanywhere.com';
 
 document.addEventListener('DOMContentLoaded', function() {
     const form = document.getElementById('registrationForm');
