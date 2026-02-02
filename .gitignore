@@ -1,0 +1,14 @@
+# Environment files with real passwords - NEVER commit!
+.env
+backend/.env
+*.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
